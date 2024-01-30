@@ -24,5 +24,3 @@ public class constantes {
     public static final  Dimension DELETE_BUTTON_SIZE = new Dimension((int)(TASKFIELD_SIZE.width*0.12),50);
 
 }
-
-//11:05 minutes
